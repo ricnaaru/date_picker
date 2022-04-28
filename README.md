@@ -1,39 +1,23 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Date Picker
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+This is a custom date picker with animation. It supports to pick day / month / year as well as a
+single selection, range selection or multiple selection. It uses all dart-Flutter code, without any
+native code. It also supports to display any marked dates, and animation while changing from day to
+month (or to year) selections.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+## Installation
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+First, add `date_picker` as
+a [dependency in your pubspec.yaml file](https://flutter.io/using-packages/).
 
-## Features
+## Example
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+You can find the full
+example, [here]([https://github.com/ricnaaru/date_picker/tree/main/example](https://github.com/ricnaaru/date_picker/tree/main/example))
 
-## Getting started
+## Support
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Please consider to support me..
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/rthayeb)
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+<br>
